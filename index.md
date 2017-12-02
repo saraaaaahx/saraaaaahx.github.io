@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Mind Your Words
+### Spoken word platform for mental health discussion 
 
-You can use the [editor on GitHub](https://github.com/saraaaaahx/saraaaaahx.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are working to build a platform for UCL students to share experiences with mental health and share their individual journeys. 
+This narrative space is created for poem, prose, song, videos, photography, theatre and anything creative 
+One might chose to contribute anonymously, or reveal their identities in their entries 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Take a look at my [article](http://pimediaonline.co.uk/category/lifestyle/) on narrative-based spaces as a response to the mental health crisis in higher education. 
+
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saraaaaahx/saraaaaahx.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ The name of this theme is saved in the Jekyll `_config.yml` configuration file.
